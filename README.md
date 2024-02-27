@@ -10,7 +10,10 @@ Sebagai mahasiswa sarjana teknik informatika terapan, saya memiliki keterampilan
 
 ## Kepakaran
 - Mobile Development: Pemahaman dasar pemrograman Java/Kotlin (Android) atau Swift (iOS), pengetahuan desain UI/UX untuk menciptakan pengalaman pengguna yang menarik.
-- Microsoft Office: - Mahir dalam menggunakan Microsoft Word untuk pembuatan dokumen, laporan, dan surat. - Keterampilan tinggi dalam Microsoft Excel untuk analisis data, perhitungan, dan pembuatan grafik. - Pengalaman dalam pembuatan presentasi yang efektif menggunakan Microsoft Powerpoint
+- Microsoft Office:
+    - Mahir dalam menggunakan Microsoft Word untuk pembuatan dokumen, laporan, dan surat.
+    - Keterampilan tinggi dalam Microsoft Excel untuk analisis data, perhitungan, dan pembuatan grafik.
+    - Pengalaman dalam pembuatan presentasi yang efektif menggunakan Microsoft Powerpoint
 
   ## Pendidikan
   (2021 - 2023) SMA Negeri 1 garut
