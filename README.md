@@ -5,8 +5,8 @@ Seperti pizza yang selalu dinantikan oleh setiap orang, selalu nanti aku jugaa y
 Halloo nama akuu Reqiiii
 
 ## Tentang Saya
-My name is Reqi Jumantara Hapid, an Informatics Engineering Student at Politeknik Negeri Bandung
-As an undergraduate student of applied informatics engineering, I have well-trained problem solving skills, good task management, and strong leadership skills. I am also interested in technological developments and always learning new things that come along.
+Nama saya Reqi Jumantara Hapid, Mahasiswa Teknik Informatika di Politeknik Negeri Bandung.
+Sebagai mahasiswa sarjana teknik informatika terapan, saya memiliki keterampilan pemecahan masalah yang terlatih, manajemen tugas yang baik, dan keterampilan kepemimpinan yang kuat. Saya juga tertarik dengan perkembangan teknologi dan selalu mempelajari hal-hal baru yang muncul.
 
 ## Kepakaran
 - Mobile Development: Pemahaman dasar pemrograman Java/Kotlin (Android) atau Swift (iOS), pengetahuan desain UI/UX untuk menciptakan pengalaman pengguna yang menarik.
