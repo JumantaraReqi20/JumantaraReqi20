@@ -4,27 +4,27 @@
 Seperti pizza yang selalu dinantikan oleh setiap orang, selalu nanti aku jugaa yaaa!!!
 Halloo nama akuu Reqiiii
 
-##Tentang Saya
+## Tentang Saya
 My name is Reqi Jumantara Hapid, an Informatics Engineering Student at Politeknik Negeri Bandung
 As an undergraduate student of applied informatics engineering, I have well-trained problem solving skills, good task management, and strong leadership skills. I am also interested in technological developments and always learning new things that come along.
 
-##Kepakaran
+## Kepakaran
 - Mobile Development: Pemahaman dasar pemrograman Java/Kotlin (Android) atau Swift (iOS), pengetahuan desain UI/UX untuk menciptakan pengalaman pengguna yang menarik.
 - Microsoft Office: - Mahir dalam menggunakan Microsoft Word untuk pembuatan dokumen, laporan, dan surat. - Keterampilan tinggi dalam Microsoft Excel untuk analisis data, perhitungan, dan pembuatan grafik. - Pengalaman dalam pembuatan presentasi yang efektif menggunakan Microsoft Powerpoint
 
-  ##Pendidikan
+  ## Pendidikan
   (2021 - 2023) SMA Negeri 1 garut
   - Aktif dalam berorganisasi sekolah, memperdalam keterampilan kepemimpinan dan kolaborasi tim.
   - Memiliki pengalaman dalam mengorganisir acara, proyek, atau kegiatan yang melibatkan koordinasi antar sesama siswa.
   - Berprestasi dalam hal akademik di kelas, menjadi salah satu top 15 lulusan terbaik dengan prestasi akademik yang konsisten.
   - Mampu mengelola waktu dengan efisien, menjaga keseimbangan antara tanggung jawab organisasi dan tugas akademis.
 
-##Proyek dan Kontribusi
+## Proyek dan Kontribusi
 
 - Saya berkontribusi sebagai proyek manager dalam sebuah proyek yang melibatkan algoritma pemrograman dalam pembuatan game tic tac toe menggunakan bahasa C. Proyek ini merupakan tugas besar dalam mata kuliah dasar-dasar pemrograman dan mendapatkan nilai yang memuaskan.
 - Berperan sebagai proyek manajer dalam pembuatan proposal PKM - KI 2024 dengan judul "C-Food : Aplikasi mobile transaksi jual beli di lingkungan kampus untuk meningkatkan minat kewirausahaan mahasiswa"
 
-##Menghubungi Saya
+## Menghubungi Saya
 
 - Untuk kolaborasi atau pertanyaan jangan ragu untuk menghubungi saya melalui:
 - Email: [reqi.jumantara.tif423@polban.ac.id](reqi.jumantara.tif423@polban.ac.id)
